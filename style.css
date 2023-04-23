@@ -1,0 +1,60 @@
+.container {
+    width: 405px;
+    border-color: chartreuse 3px solid;
+
+}
+.boxing1 {
+    display: flex;
+    flex-direction: row;
+    align-self:flex-start;
+    list-style: none;
+}
+.box1 { 
+    height: 101px;
+    width: 101px;
+    background-color: gold;
+    border: 5px;
+    border: aquamarine;
+}
+.box2 { 
+    height: 101px;
+    width: 101px;
+    background-color: blue;
+    border: 5px;
+    border-color: aquamarine;
+}
+.box3 { 
+    height: 101px;
+    width: 101px;
+    background-color: gold;
+    border: 20px;
+    border-color: pink;
+}
+.box4 { 
+    height: 101px;
+    width: 101px;
+    background-color: blue;
+    border: 5px;
+    border-color: aquamarine;
+}
+.boxing2 {
+    display: flex;
+    justify-content: space-between;
+    align-self:flex-start;
+    list-style: none;
+}
+
+.box5 { 
+    height: 101px;
+    width: 101px;
+    background-color: blue;
+    border: 5px;
+    border-color: aquamarine;
+}
+.box6 { 
+    height: 101px;
+    width: 101px;
+    background-color: gold;
+    border: 5px;
+    border-color: aquamarine;
+}
